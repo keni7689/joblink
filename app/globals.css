@@ -1,0 +1,3 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+body { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; background:#fafafa; color:#111827; }
+@media (prefers-reduced-motion: reduce){ *{ transition:none!important; animation:none!important } }
